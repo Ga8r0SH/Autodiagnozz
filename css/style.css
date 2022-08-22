@@ -1,3 +1,8 @@
 html{
   background-color: #fff;
+  box-sizing: border-box;
+  padding-left: 5px;
+}
+.header{
+  border-color: antiquewhite;
 }
